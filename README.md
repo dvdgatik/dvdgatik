@@ -33,14 +33,21 @@
 <div align="center" style="display: grid; grid-template-columns: repeat(5, auto); gap: 20px;">
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React">
+  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React Native">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript">
   
   <!-- Backend -->
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js">
+  <img src="https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white&style=for-the-badge" alt=".NET">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
   <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP">
+  <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" alt="NPM">
+
+  <!-- CMS -->
+  <img src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" alt="WordPress">
 
   <!-- Mobile Development -->
   <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" alt="Android">
@@ -50,6 +57,11 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
   <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" alt="Azure">
   <img src="https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge" alt="Yarn">
+
+  <!-- Operating Systems -->
+  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux">
+  <img src="https://img.shields.io/badge/-Apple-000000?logo=apple&logoColor=white&style=for-the-badge" alt="Apple">
+  <img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" alt="Windows">
 </div>
 
 ---
@@ -57,8 +69,8 @@
 ## 🏆 Professional Experience  
 
 - 🖥️ **Frontend Developer**: Expert in building dynamic and accessible interfaces using **React** and **TypeScript**.  
-- 🌐 **Backend Developer**: Proficient in developing scalable APIs with **Node.js**, **Python**, and **PHP**.  
-- 📱 **Mobile Development**: Skilled in creating native and hybrid applications for **Android** and **iOS**.  
+- 🌐 **Backend Developer**: Proficient in developing scalable APIs with **Node.js**, **Python**, **.NET**, and **PHP**.  
+- 📱 **Mobile Development**: Skilled in creating native and hybrid applications for **Android**, **iOS**, and **React Native**.  
 - 🔒 **Cybersecurity**: Pursuing a Master's degree in Cybersecurity.  
 
 ---
@@ -71,7 +83,7 @@
 
 ### **2. [Smart Mobile Application](#)**  
 - **Description**: Mobile app promoting healthy habits with AI integration.  
-- **Technologies**: Android, Python, TensorFlow.  
+- **Technologies**: React Native, Python, TensorFlow.  
 
 ---
 
