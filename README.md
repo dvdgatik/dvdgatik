@@ -4,7 +4,7 @@
   <table>
     <tr>
       <td align="center" width="150">
-        <img src="https://via.placeholder.com/150" alt="David Gatica's Profile Picture" width="150" style="border-radius: 50%;">
+        <img src="https://github.com/user-attachments/assets/2fe1bb27-4e04-4915-a744-b2510b9672fe" alt="David Gatica's Profile Picture" width="150" style="border-radius: 50%;">
       </td>
       <td>
         <h3>Hi there! I'm David Gatica</h3>
