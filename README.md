@@ -91,9 +91,9 @@
 
 <div align="center">
   📧 **Email**: david.gatica@example.com  
-  💼 **LinkedIn**: [David Gatica](https://linkedin.com/in/davidgatica)  
+  💼 **LinkedIn**: [David Gatica](https://linkedin.com/in/david-gatica)  
   📂 **Portfolio**: [davidgatica.dev](https://davidgatica.dev)  
-  🐙 **GitHub**: [github.com/DavidGatica](https://github.com/DavidGatica)  
+  🐙 **GitHub**: [github.com/DavidGatica](https://github.com/dvdgatik)  
 </div>
 
 ---
