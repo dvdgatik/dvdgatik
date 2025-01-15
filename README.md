@@ -90,7 +90,7 @@
 ## 🌟 Connect with Me  
 
 <div align="center">
-  📧 **Email**: david.gatica@example.com  
+  📧 **Email**: dvdgatic@gmail.com  
   💼 **LinkedIn**: [David Gatica](https://linkedin.com/in/david-gatica)  
   📂 **Portfolio**: [davidgatica.dev](https://davidgatica.dev)  
   🐙 **GitHub**: [github.com/DavidGatica](https://github.com/dvdgatik)  
