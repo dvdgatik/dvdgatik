@@ -69,7 +69,7 @@
 ## 🏆 Professional Experience  
 
 - 🖥️ **Frontend Developer** (Main Skill): Expert in building dynamic and accessible interfaces using **React** and **TypeScript**.  
-- 🌐 **Backend Developer** (Secondary Skill): Proficient in developing scalable APIs with **Node.js**, **Python**, **.NET**, and **PHP**.  
+- 🌐 **Backend Developer** (Secondary Skill): Proficient in developing scalable APIs with **Node.js** and **Python**.  
 - 📱 **Mobile Development**: Skilled in creating hybrid applications for **Android**, **iOS**, with **React Native**.  
 - 🔒 **Cybersecurity**: Pursuing a Master's degree in Cybersecurity.  
 
