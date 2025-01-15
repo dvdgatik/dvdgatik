@@ -97,5 +97,4 @@
 </div>
 
 ---
-
-_"Code is my tool, solutions are my goal."_ ✨  
+  
