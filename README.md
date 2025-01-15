@@ -1,22 +1,36 @@
 # 👨‍💻 David Gatica | Software Engineer  
 
 <div align="center">
-  <img src="https://via.placeholder.com/150" alt="Foto de perfil de David Gatica" width="150" style="border-radius: 50%;">
-  <h3>¡Hola! Soy David Gatica</h3>
-  <p>Ingeniero de software especializado en frontend con <strong>React</strong> y experiencia en backend con <strong>Node.js</strong>, <strong>PHP</strong>, y <strong>Python</strong>.</p>
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://via.placeholder.com/150" alt="David Gatica's Profile Picture" width="150" style="border-radius: 50%;">
+      </td>
+      <td>
+        <h3>Hi there! I'm David Gatica</h3>
+        <p>
+          A passionate <strong>Software Engineer</strong> specializing in frontend development with <strong>React</strong> and experienced in backend technologies such as <strong>Node.js</strong>, <strong>PHP</strong>, and <strong>Python</strong>.  
+          I have also worked on mobile app development for both <strong>Android</strong> and <strong>iOS</strong>.  
+        </p>
+        <p>
+          Currently pursuing a <strong>Master's degree in Cybersecurity</strong>, I bring a blend of innovative solutions and robust security practices to my work.  
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF de desarrollador programando" width="600">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding GIF" width="600">
 </div>
 
 ---
 
-## 🚀 Tecnologías y Herramientas  
+## 🚀 Technologies and Tools  
 
-<div align="center">
+<div align="center" style="display: grid; grid-template-columns: repeat(5, auto); gap: 20px;">
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5">
@@ -40,37 +54,36 @@
 
 ---
 
-## 🏆 Experiencia Profesional  
+## 🏆 Professional Experience  
 
-- 🖥️ **Frontend Developer**: Experto en interfaces dinámicas y accesibles con **React** y **TypeScript**.  
-- 🌐 **Backend Developer**: Desarrollo de APIs escalables con **Node.js**, **Python**, y **PHP**.  
-- 📱 **Mobile Development**: Creación de aplicaciones nativas e híbridas para **Android** e **iOS**.  
-- 🔒 **Ciberseguridad**: Estudiante de maestría en Ciberseguridad.  
-
----
-
-## 📚 Proyectos Destacados  
-
-### **1. [Proyecto Innovador con React](#)**  
-- **Descripción**: Aplicación interactiva para gestionar proyectos con notificaciones en tiempo real.  
-- **Tecnologías**: React, Node.js, Firebase, TypeScript.  
-
-### **2. [Aplicación Móvil Inteligente](#)**  
-- **Descripción**: Aplicación móvil para hábitos saludables con IA.  
-- **Tecnologías**: Android, Python, TensorFlow.  
+- 🖥️ **Frontend Developer**: Expert in building dynamic and accessible interfaces using **React** and **TypeScript**.  
+- 🌐 **Backend Developer**: Proficient in developing scalable APIs with **Node.js**, **Python**, and **PHP**.  
+- 📱 **Mobile Development**: Skilled in creating native and hybrid applications for **Android** and **iOS**.  
+- 🔒 **Cybersecurity**: Pursuing a Master's degree in Cybersecurity.  
 
 ---
 
-## 🌟 Conecta conmigo  
+## 📚 Featured Projects  
+
+### **1. [Innovative Project with React](#)**  
+- **Description**: Interactive app to manage projects with real-time notifications.  
+- **Technologies**: React, Node.js, Firebase, TypeScript.  
+
+### **2. [Smart Mobile Application](#)**  
+- **Description**: Mobile app promoting healthy habits with AI integration.  
+- **Technologies**: Android, Python, TensorFlow.  
+
+---
+
+## 🌟 Connect with Me  
 
 <div align="center">
-  📧 **Correo**: david.gatica@example.com  
+  📧 **Email**: david.gatica@example.com  
   💼 **LinkedIn**: [David Gatica](https://linkedin.com/in/davidgatica)  
-  📂 **Portafolio**: [davidgatica.dev](https://davidgatica.dev)  
+  📂 **Portfolio**: [davidgatica.dev](https://davidgatica.dev)  
   🐙 **GitHub**: [github.com/DavidGatica](https://github.com/DavidGatica)  
 </div>
 
 ---
 
-_"El código es mi herramienta, las soluciones mi meta."_ ✨  
-
+_"Code is my tool, solutions are my goal."_ ✨  
